@@ -1,0 +1,13 @@
+
+.titulo {
+    margin: 50px 50px;
+    font-size: 100px;
+    background-color: yellowgreen;
+    color: #000;
+}
+
+
+.titulo2 {
+    margin: auto 50px;
+    font-size: 50px;
+}
